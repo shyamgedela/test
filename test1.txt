@@ -1,1 +1,2 @@
 the quick brown fox
+adding line 2
